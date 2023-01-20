@@ -66,8 +66,11 @@ header > h1{
 }
 
 header > p{
+    font-family: var(--fonte-padrao);
     color: white;
     padding: 0px 10px 20px 10px;
+    max-width: 600px;
+    margin: auto;
     text-shadow: 1px 1px 1px #063d1e;
 }
 
